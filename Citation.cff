@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Filo"
+  given-names: "Maurice"
+  orcid: "https://orcid.org/0000-0002-4556-2336"
+title: "Inteins-in-the-Loop"
+version: 1.0.0
+doi: 10.5281/zenodo.6373177
+date-released: 2022-03-21
+url: "https://github.com/Maurice-Filo/Inteins-in-the-Loop"
